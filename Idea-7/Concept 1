@@ -1,5 +1,11 @@
 Alarm clock control light and temperature
 
-1. Oven timer connect to mobile phone, alert when the oven is ready
+1. Food thermometer connect to mobile phone, alert when temperature is rached and food is ready
+
+This one is designed especially for sunday roasts, it's always hard to get the tempeture right for roasts
+The readiness is all about the temperature of the roast
+Open/close oven door can effect the timing of the roast
+
 Oven readiness depends on temperature changing - Thermistor 
+
 
