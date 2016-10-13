@@ -1,7 +1,8 @@
 In the morning 
-Alarm clock connect to the heater in the bathroom 
-When heat temperature reaches a comfortable setting e.g 22c send signal to the light switch
+Alarm clock connect to the light switch in the bathroom  
+When light comes on send a singal to the heater locate in the bathroom 
+When heat temperature reaches a comfortable setting e.g 22c send signal to wake up 
 
 Heater represent by temperature changing - Thermistor
-Light sensor represent by ....
-LED represent alart send to clock 
+Light sensor represent by LDR - light dependant resistor
+LED represent alart to wake up  
